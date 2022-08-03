@@ -21,4 +21,7 @@ Thanks to [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction
 Also, two articles on the work and structure of HTTP were a little boring, but useful)
 The task report (screenshots) are in the ["task_linux_cli"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_linux_cli) folder.
 
+## Git Collaboration
+The task report (screenshots) are in the ["task_git_collaboration"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_git_collaboration) folder.
+
 </details>
