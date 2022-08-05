@@ -12,7 +12,7 @@ I want to start my career in Frontend and I wish success to all like-minded peop
 
 Well, the first step has been taken!
 It was my first time using Git and it turned out pretty good.
-The task report (screenshots) are in the ["Img_Git"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/Img_Git) folder.
+The task report (screenshots) are in the ["task_Git"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/Img_Git) folder.
 
 
 ## Linux CLI, and HTTP
