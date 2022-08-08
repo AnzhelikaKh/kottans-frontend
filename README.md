@@ -36,6 +36,6 @@ It was interesting, I especially liked the site [learngitbranching.js.org](https
 
 
 ## Intro to HTML and CSS
-*The task report (screenshots) are in the "task_html_css_intro" folder.*
+*The task report (screenshots) are in the ["task_html_css_intro"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_html_css_intro) folder.*
 
 </details>
