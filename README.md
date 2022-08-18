@@ -48,6 +48,10 @@ In the end, I plan to use all the new knowledge gained while reviewing the cours
 *The task report (screenshots) are in the ["task_html_css_intro"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_html_css_intro) folder.*
 
 ## Responsive Web Design
-*The task report (screenshots) are in the "task_responsive_web_design" folder.*
+I love when the material is anchored in a game format (maybe I'm still a child inside). It's really much more interesting :)In principle, almost all the information from this section was new to me, but it seems that I still mastered most of it and understood the essence :)
+
+Although I was not able to take the course for some time, I still return to it with new strength and inspiration.
+
+*The task report (screenshots) are in the ["task_responsive_web_design"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_responsive_web_design) folder.*
 
 </details>
