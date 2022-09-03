@@ -54,4 +54,23 @@ Although I was not able to take the course for some time, I still return to it w
 
 *The task report (screenshots) are in the ["task_responsive_web_design"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_responsive_web_design) folder.*
 
+## HTML & CSS Practice
+My impressions: a lot of stupid mistakes were made, but without them you can't learn something new, right?) 
+
+I rewrote the code several times, and was happy *like a child* when PR was finally closed :)
+
+[DEMO](https://anzhelikakh.github.io/popup/) | [Code base](https://github.com/AnzhelikaKh/popup)
+
+## JS Basics
+This is where my acquaintance with JS began, and to be honest, at times it was difficult to perceive this or that information. 
+
+But, I am sure, everything that is not completely clear now will become clear later - in practice :)
+
+*The task report (screenshots) are in the ["task_js_basics"](https://github.com/AnzhelikaKh/kottans-frontend/tree/main/Img/task_js_basics) folder.*
+
+## DOM
+
+In process...
+
+
 </details>
